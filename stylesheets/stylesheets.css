@@ -27,3 +27,8 @@ ul.list::first-letter {
     font-weight: bold;
     font-size: 120%;
 }
+
+div+a {
+    background-color: yellow;
+}
+
